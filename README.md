@@ -1,4 +1,3 @@
 # HiThere
 
-The clue: U3VyYWggQWwtV2FxaSdhaCAtIDUtNg== <br>
-Remember what's equivalent
+aHR0cHM6Ly95b3V0dS5iZS9vRVMtTVFoZ0JDdw==
